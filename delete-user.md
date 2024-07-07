@@ -1,9 +1,10 @@
-**Taffweed App**
+Taffweed App
+-
 Steps to delete your account and data from our app:
-1- Login with your phone number and password.
-2- Go to Settings from bottom navigation bar below.
-3- Go to Personal information
-4- Then click Delete Account button (red color)
+- Login with your phone number and password.
+- Go to Settings from bottom navigation bar below.
+- Go to Personal information
+- Then click Delete Account button (red color)
 
 Data deletion
 - All user data will be deleted include phone, password and his requests.
